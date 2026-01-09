@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1767919731",
+      "filename": "lineage-23.1-20260109-UNOFFICIAL-duchamp.zip",
+      "id": "d43aa05832f1be70214e3d39d7dbab39bd8ed142c6ba283bde046c386999851f",
+      "romtype": "UNOFFICIAL",
+      "size": 1860750441,
+      "url": "https://github.com/mt6897-devs/OTA/releases/download/6.0/lineage-23.1-20260109-UNOFFICIAL-duchamp.zip",
+      "version": "23.1"
+    }
+  ]
+}
