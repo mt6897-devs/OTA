@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1770737180",
-      "filename": "lineage-23.2-20260210-UNOFFICIAL-duchamp.zip",
-      "id": "dcd0b40a5b2d1ab5f8b7c968c35f30758322674239a06ccae4aac6cedd7bcd18",
+      "datetime": "1777460343",
+      "filename": "lineage-23.2-20260429-UNOFFICIAL-duchamp.zip",
+      "id": "1b1d846db08167a82073518148bddc43b84db20e2b34faac26760648b544ccba",
       "romtype": "UNOFFICIAL",
-      "size": 1894028298,
-      "url": "https://github.com/mt6897-devs/OTA/releases/download/7.0/lineage-23.2-20260210-UNOFFICIAL-duchamp.zip",
+      "size": 1957585655,
+      "url": "https://github.com/mt6897-devs/OTA/releases/download/8.0/lineage-23.2-20260429-UNOFFICIAL-duchamp.zip",
       "version": "23.2"
     }
   ]
